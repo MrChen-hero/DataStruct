@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="No.1线性表">
+      <UniqueIdentifier>{4c674ea0-812a-4a7d-9e81-73a6fc2154ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.1线性表\单链表">
+      <UniqueIdentifier>{c460b3f2-a3b9-4e17-810b-e99c81c9e850}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.1线性表\顺序表">
+      <UniqueIdentifier>{d4d684b8-90b0-47ea-9a54-2ab61c4eedc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.1线性表\双链表">
+      <UniqueIdentifier>{3a11eee8-7ee1-43cc-8e2e-40dce6b612d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.1线性表\循环链表">
+      <UniqueIdentifier>{c11ef0cc-dfb7-45ad-af83-0c5d6433a337}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.2栈&amp;队列&amp;数组">
+      <UniqueIdentifier>{8e0762c8-c928-4056-b81f-e03530d07f08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.2栈&amp;队列&amp;数组\栈">
+      <UniqueIdentifier>{b303f559-c750-4ed7-af3e-490ae07be9bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.2栈&amp;队列&amp;数组\栈\顺序栈">
+      <UniqueIdentifier>{0b8d802d-0512-4835-9dc6-c49820bdfaed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.2栈&amp;队列&amp;数组\栈\链栈">
+      <UniqueIdentifier>{481f0d04-ef20-4d74-9162-366630b7ffa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.2栈&amp;队列&amp;数组\栈\括号匹配&amp;前缀表达式&amp;递归">
+      <UniqueIdentifier>{50c6b7a8-4e88-4e0f-8c1b-280bd327e5a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.2栈&amp;队列&amp;数组\队列">
+      <UniqueIdentifier>{3a0f2b9a-7c0a-4603-8bf1-c423109cda93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.2栈&amp;队列&amp;数组\队列\顺序队列">
+      <UniqueIdentifier>{b08214bc-03ed-4c4e-afbb-b5560c57edb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.2栈&amp;队列&amp;数组\队列\链式队列">
+      <UniqueIdentifier>{82f0881a-a98e-41bd-bdef-c47c1e6a9b47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.2栈&amp;队列&amp;数组\队列\树的层次遍历&amp;图的广度优先遍历">
+      <UniqueIdentifier>{11e171ff-7b20-4710-9ad7-c47b6b95dba2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.3串">
+      <UniqueIdentifier>{f0365273-3456-45aa-a15f-c9d977520765}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.3串\匹配算法">
+      <UniqueIdentifier>{f73b346b-f131-4390-a4ee-0e7fad3b236d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.4树与二叉树">
+      <UniqueIdentifier>{bb2ab97f-8cda-48d4-bc33-164dd65d172d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.4树与二叉树\二叉树">
+      <UniqueIdentifier>{045f9abd-e260-471a-9bef-ab92394c54b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.4树与二叉树\线索二叉树">
+      <UniqueIdentifier>{cc91c729-9537-445f-b40a-45f2e0a31423}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.4树与二叉树\哈夫曼树">
+      <UniqueIdentifier>{ba625fed-b30e-41bf-ae78-57192aaed942}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.4树与二叉树\树&amp;森林">
+      <UniqueIdentifier>{4ec6f6ab-376d-4663-8d53-185f53cf39e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.4树与二叉树\哈夫曼树\Huffman">
+      <UniqueIdentifier>{46e355b6-7167-4e61-a807-eaba16808f56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.4树与二叉树\并查集">
+      <UniqueIdentifier>{55029726-1e58-4490-9a5b-7475b7c6a2a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.5图">
+      <UniqueIdentifier>{11fe189d-0277-4a50-aa83-dbe4710e8225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.5图\图的存储结构">
+      <UniqueIdentifier>{f20c8c9f-07ba-42b0-a9fa-7614d35ffe54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.5图\图的遍历">
+      <UniqueIdentifier>{6a7123a2-8444-4ed2-a84c-a779edff9ab3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.5图\最小生成树">
+      <UniqueIdentifier>{003b6b78-6bc2-4a31-98c7-7b69a73c948b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.5图\最短路径">
+      <UniqueIdentifier>{b9fb222a-c562-472f-9fcb-41d8160ab8f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.5图\最短路径\单源最短路径">
+      <UniqueIdentifier>{0438cc2a-b385-4c4d-825d-541c4cd77266}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.5图\最短路径\各顶点最短路径">
+      <UniqueIdentifier>{6e8c825f-99e9-4883-901d-533599d098ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.5图\AOV网">
+      <UniqueIdentifier>{d626edab-74bb-42fd-a148-8cf47637ff3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.5图\AOE网">
+      <UniqueIdentifier>{35f02658-05f2-48f8-8fd5-c7bfd2828b64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.6查找">
+      <UniqueIdentifier>{96c323ac-c6c4-4529-98eb-317fc5812a49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.7排序">
+      <UniqueIdentifier>{32ca4c66-3534-4041-b7c5-5815a5e75b3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.6查找\顺序查找&amp;折半查找&amp;分块查找">
+      <UniqueIdentifier>{78cd9323-b58f-454a-964c-2fa418896478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.6查找\二叉排序树">
+      <UniqueIdentifier>{f60d4610-87b8-4b77-aa1d-23d6964cd1fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.6查找\平衡二叉树">
+      <UniqueIdentifier>{6e9be89f-25df-42be-99c2-0c6390e206ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.6查找\红黑树">
+      <UniqueIdentifier>{d0f60be9-e930-4842-8a25-fdfa376ef322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.6查找\B树">
+      <UniqueIdentifier>{5b3cc754-a731-4fdb-bd4b-cf64e8cb5a9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.6查找\B+树">
+      <UniqueIdentifier>{56d5efea-afa0-43e0-b0a1-685677db9385}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.6查找\散列查找">
+      <UniqueIdentifier>{c1b96cde-7ff1-4d96-aa22-410863e565b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.6查找\顺序查找&amp;折半查找&amp;分块查找\分块查找">
+      <UniqueIdentifier>{40070db6-5e55-4fde-8ac7-25823ba58e90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.7排序\插入排序">
+      <UniqueIdentifier>{fa1c1517-def8-4140-a40e-7f520215421e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.7排序\冒泡排序">
+      <UniqueIdentifier>{31433507-bd61-4939-a712-cb63b5f949a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.7排序\快速排序">
+      <UniqueIdentifier>{c37cf2f7-215d-45fb-b72e-de518bf79b89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.7排序\选择排序">
+      <UniqueIdentifier>{58ce5a68-f40a-416d-9c39-8f6eff92b11b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.7排序\归并排序">
+      <UniqueIdentifier>{80066894-147b-40e2-a980-fdf680a282cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.7排序\基数排序">
+      <UniqueIdentifier>{1c09ff0f-a8f7-4975-931f-42f0fc0e4248}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="No.7排序\外部排序">
+      <UniqueIdentifier>{89c0a572-3414-438d-b105-104a91da8e80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LinkList.cpp">
+      <Filter>No.1线性表\单链表</Filter>
+    </ClCompile>
+    <ClCompile Include="LineList.cpp">
+      <Filter>No.1线性表\顺序表</Filter>
+    </ClCompile>
+    <ClCompile Include="DLinkList.cpp">
+      <Filter>No.1线性表\双链表</Filter>
+    </ClCompile>
+    <ClCompile Include="LLinkList.cpp">
+      <Filter>No.1线性表\循环链表</Filter>
+    </ClCompile>
+    <ClCompile Include="DLLinkList.cpp">
+      <Filter>No.1线性表\循环链表</Filter>
+    </ClCompile>
+    <ClCompile Include="SequenceStack.cpp">
+      <Filter>No.2栈&amp;队列&amp;数组\栈\顺序栈</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkStack.cpp">
+      <Filter>No.2栈&amp;队列&amp;数组\栈\链栈</Filter>
+    </ClCompile>
+    <ClCompile Include="ShareStack.cpp">
+      <Filter>No.2栈&amp;队列&amp;数组\栈\顺序栈</Filter>
+    </ClCompile>
+    <ClCompile Include="SequenceQueue.cpp">
+      <Filter>No.2栈&amp;队列&amp;数组\队列\顺序队列</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkQueue.cpp">
+      <Filter>No.2栈&amp;队列&amp;数组\队列\链式队列</Filter>
+    </ClCompile>
+    <ClCompile Include="ParenthesisMatching.cpp">
+      <Filter>No.2栈&amp;队列&amp;数组\栈\括号匹配&amp;前缀表达式&amp;递归</Filter>
+    </ClCompile>
+    <ClCompile Include="ExpressionConvertion.cpp">
+      <Filter>No.2栈&amp;队列&amp;数组\栈\括号匹配&amp;前缀表达式&amp;递归</Filter>
+    </ClCompile>
+    <ClCompile Include="BF&amp;KMP.cpp">
+      <Filter>No.3串\匹配算法</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>No.4树与二叉树\树&amp;森林</Filter>
+    </ClCompile>
+    <ClCompile Include="BiTree.cpp">
+      <Filter>No.4树与二叉树\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelOrder.cpp">
+      <Filter>No.2栈&amp;队列&amp;数组\队列\树的层次遍历&amp;图的广度优先遍历</Filter>
+    </ClCompile>
+    <ClCompile Include="BiThrTree.cpp">
+      <Filter>No.4树与二叉树\线索二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="Forest.cpp">
+      <Filter>No.4树与二叉树\树&amp;森林</Filter>
+    </ClCompile>
+    <ClCompile Include="Huffman.cpp">
+      <Filter>No.4树与二叉树\哈夫曼树\Huffman</Filter>
+    </ClCompile>
+    <ClCompile Include="pQueue.cpp">
+      <Filter>No.4树与二叉树\哈夫曼树\Huffman</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>No.4树与二叉树\哈夫曼树\Huffman</Filter>
+    </ClCompile>
+    <ClCompile Include="UFSets.cpp">
+      <Filter>No.4树与二叉树\并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>No.5图\图的存储结构</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS.cpp">
+      <Filter>No.5图\图的遍历</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS.cpp">
+      <Filter>No.5图\图的遍历</Filter>
+    </ClCompile>
+    <ClCompile Include="Prim.cpp">
+      <Filter>No.5图\最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="Kruskal.cpp">
+      <Filter>No.5图\最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS-noweight.cpp">
+      <Filter>No.5图\最短路径\单源最短路径</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra.cpp">
+      <Filter>No.5图\最短路径\单源最短路径</Filter>
+    </ClCompile>
+    <ClCompile Include="Floyd.cpp">
+      <Filter>No.5图\最短路径\各顶点最短路径</Filter>
+    </ClCompile>
+    <ClCompile Include="TopologicalSort.cpp">
+      <Filter>No.5图\AOV网</Filter>
+    </ClCompile>
+    <ClCompile Include="CriticalPath.cpp">
+      <Filter>No.5图\AOE网</Filter>
+    </ClCompile>
+    <ClCompile Include="SeDecisionTree.cpp">
+      <Filter>No.6查找\顺序查找&amp;折半查找&amp;分块查找</Filter>
+    </ClCompile>
+    <ClCompile Include="HalfDecisionTree.cpp">
+      <Filter>No.6查找\顺序查找&amp;折半查找&amp;分块查找</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkBlockSearch.cpp">
+      <Filter>No.6查找\顺序查找&amp;折半查找&amp;分块查找\分块查找</Filter>
+    </ClCompile>
+    <ClCompile Include="SeBlockSearch.cpp">
+      <Filter>No.6查找\顺序查找&amp;折半查找&amp;分块查找\分块查找</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySortTree.cpp">
+      <Filter>No.6查找\二叉排序树</Filter>
+    </ClCompile>
+    <ClCompile Include="AverageBiTree.cpp">
+      <Filter>No.6查找\平衡二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="RBTree.cpp">
+      <Filter>No.6查找\红黑树</Filter>
+    </ClCompile>
+    <ClCompile Include="BTree.cpp">
+      <Filter>No.6查找\B树</Filter>
+    </ClCompile>
+    <ClCompile Include="BPlusTree.cpp">
+      <Filter>No.6查找\B+树</Filter>
+    </ClCompile>
+    <ClCompile Include="HashTable.cpp">
+      <Filter>No.6查找\散列查找</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertSort.cpp">
+      <Filter>No.7排序\插入排序</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.cpp">
+      <Filter>No.7排序\归并排序</Filter>
+    </ClCompile>
+    <ClCompile Include="RadixSort.cpp">
+      <Filter>No.7排序\基数排序</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>No.7排序\快速排序</Filter>
+    </ClCompile>
+    <ClCompile Include="BubbleSort.cpp">
+      <Filter>No.7排序\冒泡排序</Filter>
+    </ClCompile>
+    <ClCompile Include="LoserTree.cpp">
+      <Filter>No.7排序\外部排序</Filter>
+    </ClCompile>
+    <ClCompile Include="ReplacementSelectionSort.cpp">
+      <Filter>No.7排序\外部排序</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleSelectionSort.cpp">
+      <Filter>No.7排序\选择排序</Filter>
+    </ClCompile>
+    <ClCompile Include="HeapSort.cpp">
+      <Filter>No.7排序\选择排序</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Huffman.h">
+      <Filter>No.4树与二叉树\哈夫曼树\Huffman</Filter>
+    </ClInclude>
+    <ClInclude Include="pQueue.h">
+      <Filter>No.4树与二叉树\哈夫曼树\Huffman</Filter>
+    </ClInclude>
+    <ClInclude Include="RBTree.h">
+      <Filter>No.6查找\红黑树</Filter>
+    </ClInclude>
+    <ClInclude Include="BPlusTree.h">
+      <Filter>No.6查找\B+树</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
